@@ -20,6 +20,7 @@
   "homepage": "https://github.com/nbarnwell/scrapy#readme",
   "dependencies": {
     "jquery": "^3.6.3",
-    "jsdom": "^21.1.0"
+    "jsdom": "^21.1.0",
+    "node-fetch": "^3.3.0"
   }
 }
