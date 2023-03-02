@@ -1,0 +1,19 @@
+{
+  "name": "scrapy",
+  "version": "0.0.0",
+  "description": "NodeJS-based web scraper (one of many, I suspect) for price watches etc",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nbarnwell/scrapy.git"
+  },
+  "author": "Neil Barnwell",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nbarnwell/scrapy/issues"
+  },
+  "homepage": "https://github.com/nbarnwell/scrapy#readme"
+}
